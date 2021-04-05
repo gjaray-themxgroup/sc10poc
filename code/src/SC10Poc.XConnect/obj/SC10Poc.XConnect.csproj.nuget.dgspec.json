@@ -1,0 +1,130 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projects\\docker\\tenpoc\\code\\src\\SC10Poc.XConnect\\SC10Poc.XConnect.csproj": {}
+  },
+  "projects": {
+    "C:\\Projects\\docker\\tenpoc\\code\\src\\SC10Poc.XConnect.Model\\SC10Poc.XConnect.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\docker\\tenpoc\\code\\src\\SC10Poc.XConnect.Model\\SC10Poc.XConnect.Model.csproj",
+        "projectName": "SC10Poc.XConnect.Model",
+        "projectPath": "C:\\Projects\\docker\\tenpoc\\code\\src\\SC10Poc.XConnect.Model\\SC10Poc.XConnect.Model.csproj",
+        "packagesPath": "C:\\Users\\gjaray\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\docker\\tenpoc\\code\\src\\SC10Poc.XConnect.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\gjaray\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://sitecore.myget.org/F/sc-packages/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "Sitecore.Assemblies.Platform": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "(, )"
+            },
+            "Sitecore.Assemblies.XConnect.Web": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "(, )"
+            },
+            "Sitecore.XConnect": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "Sitecore.XConnect.Collection.Model": {
+              "target": "Package",
+              "version": "(, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Projects\\docker\\tenpoc\\code\\src\\SC10Poc.XConnect\\SC10Poc.XConnect.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\docker\\tenpoc\\code\\src\\SC10Poc.XConnect\\SC10Poc.XConnect.csproj",
+        "projectName": "SC10Poc.XConnect",
+        "projectPath": "C:\\Projects\\docker\\tenpoc\\code\\src\\SC10Poc.XConnect\\SC10Poc.XConnect.csproj",
+        "packagesPath": "C:\\Users\\gjaray\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\docker\\tenpoc\\code\\src\\SC10Poc.XConnect\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\gjaray\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://sitecore.myget.org/F/sc-packages/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "C:\\Projects\\docker\\tenpoc\\code\\src\\SC10Poc.XConnect.Model\\SC10Poc.XConnect.Model.csproj": {
+                "projectPath": "C:\\Projects\\docker\\tenpoc\\code\\src\\SC10Poc.XConnect.Model\\SC10Poc.XConnect.Model.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "Sitecore.Assemblies.XConnect.Web": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "(, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

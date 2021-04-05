@@ -80,9 +80,9 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\DockerExamples.XConnect.Model\DockerExamples.XConnect.Model.csproj">
+    <ProjectReference Include="..\SC10Poc.XConnect.Model\SC10Poc.XConnect.Model.csproj">
       <Project>{16dc2062-e853-44bb-a006-bc1f4cd5bbcf}</Project>
-      <Name>DockerExamples.XConnect.Model</Name>
+      <Name>SC10Poc.XConnect.Model</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

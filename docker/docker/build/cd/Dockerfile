@@ -32,7 +32,7 @@ COPY --from=solution \artifacts\website\ .\
 COPY --from=solution \artifacts\transforms\ \transforms\solution\
 
 # Perform solution transforms
-RUN C:\tools\scripts\Invoke-XdtTransform.ps1 -Path .\ -XdtPath C:\transforms\solution\DockerExamples.Website
+RUN C:\tools\scripts\Invoke-XdtTransform.ps1 -Path .\ -XdtPath C:\transforms\solution\Sc10Poc.Website
 
 COPY --from=jss C:\module\cd\content C:\inetpub\wwwroot
 COPY --from=jss C:\module\tools C:\module\tools

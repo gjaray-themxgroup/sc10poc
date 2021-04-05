@@ -1,0 +1,33 @@
+{
+  "Name": "SC10Poc.XConnect.Model.DemoModel",
+  "Version": "1.0",
+  "References": [
+    {
+      "Name": "XConnect",
+      "Version": "1.0"
+    },
+    {
+      "Name": "Sitecore.XConnect.Collection.Model",
+      "Version": "10.1"
+    }
+  ],
+  "Types": {
+    "SC10Poc.XConnect.Model.DemoFacet": {
+      "Type": "Facet",
+      "BaseType": "Sitecore.XConnect.Facet",
+      "ClrType": "SC10Poc.XConnect.Model.DemoFacet, SC10Poc.XConnect.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "Properties": {
+        "FavoriteAnimal": {
+          "Type": "String"
+        }
+      }
+    }
+  },
+  "Facets": [
+    {
+      "Target": "Contact",
+      "Name": "DemoFacet",
+      "Type": "SC10Poc.XConnect.Model.DemoFacet"
+    }
+  ]
+}

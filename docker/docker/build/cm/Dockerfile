@@ -54,7 +54,7 @@ COPY --from=solution \artifacts\transforms\ \transforms\solution\
 COPY .\transforms\ \transforms\role\
 
 # Perform solution transforms
-RUN C:\tools\scripts\Invoke-XdtTransform.ps1 -Path .\ -XdtPath C:\transforms\solution\DockerExamples.Website
+RUN C:\tools\scripts\Invoke-XdtTransform.ps1 -Path .\ -XdtPath C:\transforms\solution\Sc10Poc.Website
 
 # Perform role transforms
 RUN C:\tools\scripts\Invoke-XdtTransform.ps1 -Path .\ -XdtPath C:\transforms\role

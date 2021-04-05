@@ -1,5 +1,5 @@
 ﻿using System;
-using DockerExamples.XConnect.Model;
+using SC10Poc.XConnect.Model;
 using Sitecore.XConnect;
 using Sitecore.XConnect.Client;
 using Sitecore.XConnect.Collection.Model;

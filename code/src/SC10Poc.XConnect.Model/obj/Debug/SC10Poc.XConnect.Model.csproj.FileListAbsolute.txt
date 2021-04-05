@@ -1,0 +1,16 @@
+C:\Projects\docker\tenpoc\code\src\SC10Poc.XConnect.Model\obj\Debug\SC10Poc.XConnect.Model.csproj.CoreCompileInputs.cache
+C:\Projects\docker\tenpoc\code\src\SC10Poc.XConnect.Model\bin\SC10Poc.XConnect.Model.dll.config
+C:\Projects\docker\tenpoc\code\src\SC10Poc.XConnect.Model\bin\SC10Poc.XConnect.Model.dll
+C:\Projects\docker\tenpoc\code\src\SC10Poc.XConnect.Model\bin\SC10Poc.XConnect.Model.pdb
+C:\Projects\docker\tenpoc\code\src\SC10Poc.XConnect.Model\bin\Newtonsoft.Json.dll
+C:\Projects\docker\tenpoc\code\src\SC10Poc.XConnect.Model\bin\Remotion.Linq.dll
+C:\Projects\docker\tenpoc\code\src\SC10Poc.XConnect.Model\bin\Sitecore.Framework.Conditions.dll
+C:\Projects\docker\tenpoc\code\src\SC10Poc.XConnect.Model\bin\Sitecore.XConnect.dll
+C:\Projects\docker\tenpoc\code\src\SC10Poc.XConnect.Model\bin\Sitecore.XConnect.Collection.Model.dll
+C:\Projects\docker\tenpoc\code\src\SC10Poc.XConnect.Model\bin\Sitecore.XConnect.Search.dll
+C:\Projects\docker\tenpoc\code\src\SC10Poc.XConnect.Model\bin\System.Interactive.Async.dll
+C:\Projects\docker\tenpoc\code\src\SC10Poc.XConnect.Model\bin\System.Interactive.Async.Providers.dll
+C:\Projects\docker\tenpoc\code\src\SC10Poc.XConnect.Model\obj\Debug\SC10Poc.XConnect.Model.csprojAssemblyReference.cache
+C:\Projects\docker\tenpoc\code\src\SC10Poc.XConnect.Model\obj\Debug\SC10Poc.XConnect.Model.csproj.CopyComplete
+C:\Projects\docker\tenpoc\code\src\SC10Poc.XConnect.Model\obj\Debug\SC10Poc.XConnect.Model.dll
+C:\Projects\docker\tenpoc\code\src\SC10Poc.XConnect.Model\obj\Debug\SC10Poc.XConnect.Model.pdb
