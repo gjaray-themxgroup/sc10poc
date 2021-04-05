@@ -7,5 +7,5 @@ code/.vs/
 
 /traefik/certs/*
 !/traefik/certs/.gitkeep
-*/bin
-*/obj
+bin/
+obj/
